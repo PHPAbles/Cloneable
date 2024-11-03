@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Cloneable;
+namespace PHPAbles\Cloneable;
 
 interface CloneableInterface 
 {

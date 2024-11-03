@@ -1,5 +1,5 @@
 {
-    "name": "potter/cloneable",
+    "name": "php-ables/cloneable",
     "description": "PHP Cloneable Interface",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Cloneable\\": "src/Potter/Cloneable/"
+            "PHPAbles\\Cloneable\\": "src/PHPAbles/Cloneable/"
         }
     },
     "authors": [
